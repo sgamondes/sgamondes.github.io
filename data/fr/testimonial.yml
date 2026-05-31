@@ -1,0 +1,23 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-space.png
+  bg_image_webp : images/backgrounds/bg-space.png
+  testimonial_item :
+    # testimonial item loop
+    - name : "Kashmir : Planète oubliée"
+      image : images/romans/kashmir.png
+      image_webp : images/romans/kashmir.png
+      content : <em>\"... la langue est fluide et sert parfaitement l'intrigue.<br/>Quant au fond, la visite accidentelle d'un vaisseau spatiale sur une planète légèrement sous-développée<br/>pourrait sentir le réchauffé mais l'auteur a su concocter un scénario suffisamment captivant.<br/>... Je ne peux qu'encourager l'auteur à persévérer et le lirai à nouveau avec plaisir\"</em>
+      
+    # testimonial item loop
+    - name : "Kashmir : Planète oubliée"
+      image : images/romans/kashmir.png
+      image_webp : images/romans/kashmir.png
+      content : <em>\"Très bon livre, je recommande, on attend la suite des aventures d'Élisa et Lukas\"</em>
+      
+    # testimonial item loop
+    - name : "Kashmir : Planète oubliée"
+      image : images/romans/kashmir.png
+      image_webp : images/romans/kashmir.png
+      content : <em>\"Super bouquin, intrigue bien ficelée et surprenante. Je recommande !!\"</em>

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/kashmir_bg.png"
+  bg_image : "images/backgrounds/kashmir-bg.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Stéphane Gamondes"
+  content : "Auteur de science-fiction, fantasy et fantastique"
+  button:
+    enable : true
+    label : "Découvrez mon univers"
+    link : "#romans"

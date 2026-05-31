@@ -1,0 +1,5 @@
+baseURL = '/'
+locale = 'fr-fr'
+title = 'Stéphane Gamondes - Auteur'
+#theme = 'ananke'
+theme = 'meghna-hugo'

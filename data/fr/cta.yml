@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-space.png"
+  bg_image_webp : "images/backgrounds/bg-space.png"
+  title : "Où trouver mes romans ?"
+  content : "En tant qu'auteur auto-édité, j'utilise Amazon Kindle Direct Publishing pour distribuer mes romans en version numérique et brochée.<br/>Ils sont disponibles dans l'offre Kindle Unlimited."
+  button:
+    enable : true
+    label : "Mes romans sur Amazon"
+    link : "https://www.amazon.fr/stores/St%C3%A9phane-Gamondes/author/B0CNNP9KF2"

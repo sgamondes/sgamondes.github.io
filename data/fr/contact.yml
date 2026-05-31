@@ -1,0 +1,21 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contactez moi
+  subtitle : Contactez moi
+  content : Envie de me poser une question ? De faire des commentaires ? Des suggestions ?<br/>Ou juste discuter ?<br/>N'hésitez-pas à me contacter via ce formulaire ou sur Instagram.<br/>
+
+  # Contact details
+  # contact_list:
+  #   - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+  #     info : "Instagram"
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://api.web3forms.com/submit" #contact form works with https://formspree.io
+    name : "Nom"
+    email : "Email"
+    subject : "Objet"
+    message : "Message"
+    submit : "Envoyer"

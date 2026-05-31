@@ -1,0 +1,76 @@
+#################################### influences ###############################
+influences:
+  enable : true
+  title : Mes influences
+  influences_item :
+    # influences item loop
+    - name : Magician
+      image : images/portfolio/magician.jpg
+      image_webp : images/portfolio/magician.jpg
+      categories : ["romans"]
+      content : Commence très classique mais, soudain, le récit sort de l'ordinaire. Tout ce que j'aime ! Et l'extraordinaire destinée de deux jeunes garçons.
+      link : ""
+      
+    # influences item loop
+    - name : Barjavel
+      image : images/portfolio/barjavel.jpg
+      image_webp : images/portfolio/barjavel.jpg
+      categories : ["romans"]
+      content : Adolescent, ma découverte du fantastique. Des idées originales, comment l'irruption de l'inattendu change notre réalité.  
+      link : ""
+      
+    # influences item loop
+    - name : Blade Runner
+      image : images/portfolio/blade_runner.jpg
+      image_webp : images/portfolio/blade_runner.jpg
+      categories : ["films"]
+      content : La réflexion sur l'humanité, la perception de soi... Et la mythique tirade de Rutger Hauer qui me tire toujours les larmes ! 
+      link : "#"
+      
+    # influences item loop
+    - name : La Guerre des Etoiles
+      image : images/portfolio/star_wars.jpg
+      image_webp : images/portfolio/star_wars.jpg
+      categories : ["films"]
+      content : Est-il nécessaire de dire pourquoi ? La claque à l'âge de 7 ans qui m'a fait tomber à jamais dans la science-fiction.
+      link : "#"
+      
+    # influences item loop
+    - name : X-Men
+      image : images/portfolio/XMen.jpg
+      image_webp : images/portfolio/XMen.jpg
+      categories : ["bd"]
+      content : Les X-Men, des super héros bourrés de failles. Comment gérer sa puissance ? Que faire de ses pouvoirs ? Trouver sa place.
+      link : "#"
+      
+    # influences item loop
+    - name : Stephen King
+      image : images/portfolio/ca.jpg
+      image_webp : images/portfolio/ca.jpg
+      categories : ["romans"]
+      content : L'irruption du fantastique dans le monde réel. Des idées originales. Et une capacité à parler des enfants comme personne.
+      link : "#"
+      
+    # influences item loop
+    - name : Terminator
+      image : images/portfolio/terminator.jpg
+      image_webp : images/portfolio/terminator.jpg
+      categories : ["films"]
+      content : A l'ère de l'IA, la question du danger de la technologie si l'humain en perd la maitrise.
+      link : "#"
+      
+    # influences item loop
+    - name : Tintin
+      image : images/portfolio/tintin.jpg
+      image_webp : images/portfolio/tintin.jpg
+      categories : ["bd"]
+      content : Mon père me les lisait avant que je ne sache lire. C'est l'aventure, la découverte et les personnages hauts en couleurs.
+      link : "#"
+      
+    # influences item loop
+    - name : David Eddings
+      image : images/portfolio/eddings.jpg
+      image_webp : images/portfolio/eddings.jpg
+      categories : ["romans"]
+      content : De la fantasy assez classique, mais des personnages attachants. Je m'étais senti perdu de les avoir quittés après avoir lu la dernière page.
+      link : "#"

@@ -1,0 +1,31 @@
+
+################### French Navigation ########################
+[[main]]
+name = "Qui suis-je ?"
+url = "#aboutme"
+weight = 1
+
+[[main]]
+name = "Romans"
+url = "#romans"
+weight = 2
+
+[[main]]
+name = "Influences"
+url = "#influences"
+weight = 3
+
+[[main]]
+name = "Avis"
+url = "#testimonial"
+weight = 4
+
+[[main]]
+name = "Boutique"
+url = "#cta"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "#contact"
+weight = 7
