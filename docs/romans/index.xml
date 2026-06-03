@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Romans on Stéphane Gamondes - Auteur</title><link>/romans/</link><description>Recent content in Romans on Stéphane Gamondes - Auteur</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 12 May 2026 12:52:36 +0600</lastBuildDate><atom:link href="/romans/index.xml" rel="self" type="application/rss+xml"/><item><title>Kashmir : Planète oubliée</title><link>/romans/kashmir/</link><pubDate>Tue, 12 May 2026 12:52:36 +0600</pubDate><guid>/romans/kashmir/</guid><description>&lt;p&gt;Mon premier roman.&lt;/p&gt;
-&lt;p&gt;Inspiré par les images qui se forment dans mon esprit lorsque j&amp;rsquo;écoute l&amp;rsquo;excellent morceau &lt;a href="https://www.youtube.com/watch?v=ww9484EM2OQ" title="Kashmir de Led Zeppelin" target="_blank"&gt;Kashmir de Led Zeppelin&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Retour sur Kashmir</title><link>/romans/retour-sur-kashmir/</link><pubDate>Sun, 12 Apr 2026 12:52:36 +0600</pubDate><guid>/romans/retour-sur-kashmir/</guid><description>&lt;p&gt;Comme son nom l&amp;rsquo;indique, Elisa et Lukas sont de retour dix ans après les évènements de Kashmir : Planète oubliée.&lt;/p&gt;</description></item><item><title>Le glaive et l'arcane</title><link>/romans/glaive-et-arcane/</link><pubDate>Thu, 12 Mar 2026 12:52:36 +0600</pubDate><guid>/romans/glaive-et-arcane/</guid><description>&lt;p&gt;Un roman de Fantasy.&lt;/p&gt;
-&lt;p&gt;Inspiré de Magician de Raymond E. Feist (à lire !)&lt;/p&gt;
-&lt;p&gt;Le destin hors du commun de deux frères jumeaux alors que leur contrée pacifique est envahie par un puissant ennemi.&lt;/p&gt;</description></item><item><title>Roman fantastique</title><link>/romans/fantastique/</link><pubDate>Thu, 12 Feb 2026 12:52:36 +0600</pubDate><guid>/romans/fantastique/</guid><description>&lt;p&gt;Cet homme a l&amp;rsquo;argent et le succès&amp;hellip; et un pouvoir. Pourtant, alors qu&amp;rsquo;il contemple la ville à ses pieds, il s&amp;rsquo;apprête à mettre fin à ses jours.&lt;/p&gt;</description></item><item><title>Roman fantasy</title><link>/romans/fantasy/</link><pubDate>Mon, 12 Jan 2026 12:52:36 +0600</pubDate><guid>/romans/fantasy/</guid><description>&lt;p&gt;Il y a de (très) nombreuses années, un guerrier a assemblé une troupe pour débarrasser la région d&amp;rsquo;un mal.&lt;/p&gt;
-&lt;p&gt;Il doit maintenant reprendre la route pour, semble-t-il, le combattre à nouveau.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romans on Stéphane Gamondes - Auteur</title>
+    <link>https://stephane.gamondes.fr/romans/</link>
+    <description>Recent content in Romans on Stéphane Gamondes - Auteur</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 12 May 2026 12:52:36 +0600</lastBuildDate>
+    <atom:link href="https://stephane.gamondes.fr/romans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kashmir : Planète oubliée</title>
+      <link>https://stephane.gamondes.fr/romans/kashmir/</link>
+      <pubDate>Tue, 12 May 2026 12:52:36 +0600</pubDate>
+      <guid>https://stephane.gamondes.fr/romans/kashmir/</guid>
+      <description>&lt;p&gt;Mon premier roman.&lt;/p&gt;&#xA;&lt;p&gt;Inspiré par les images qui se forment dans mon esprit lorsque j&amp;rsquo;écoute l&amp;rsquo;excellent morceau &lt;a href=&#34;https://www.youtube.com/watch?v=ww9484EM2OQ&#34; title=&#34;Kashmir de Led Zeppelin&#34; target=&#34;_blank&#34;&gt;Kashmir de Led Zeppelin&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retour sur Kashmir</title>
+      <link>https://stephane.gamondes.fr/romans/retour-sur-kashmir/</link>
+      <pubDate>Sun, 12 Apr 2026 12:52:36 +0600</pubDate>
+      <guid>https://stephane.gamondes.fr/romans/retour-sur-kashmir/</guid>
+      <description>&lt;p&gt;Comme son nom l&amp;rsquo;indique, Elisa et Lukas sont de retour dix ans après les évènements de Kashmir : Planète oubliée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le glaive et l&#39;arcane</title>
+      <link>https://stephane.gamondes.fr/romans/glaive-et-arcane/</link>
+      <pubDate>Thu, 12 Mar 2026 12:52:36 +0600</pubDate>
+      <guid>https://stephane.gamondes.fr/romans/glaive-et-arcane/</guid>
+      <description>&lt;p&gt;Un roman de Fantasy.&lt;/p&gt;&#xA;&lt;p&gt;Inspiré de Magician de Raymond E. Feist (à lire !)&lt;/p&gt;&#xA;&lt;p&gt;Le destin hors du commun de deux frères jumeaux alors que leur contrée pacifique est envahie par un puissant ennemi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roman fantastique</title>
+      <link>https://stephane.gamondes.fr/romans/fantastique/</link>
+      <pubDate>Thu, 12 Feb 2026 12:52:36 +0600</pubDate>
+      <guid>https://stephane.gamondes.fr/romans/fantastique/</guid>
+      <description>&lt;p&gt;Cet homme a l&amp;rsquo;argent et le succès&amp;hellip; et un pouvoir. Pourtant, alors qu&amp;rsquo;il contemple la ville à ses pieds, il s&amp;rsquo;apprête à mettre fin à ses jours.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roman fantasy</title>
+      <link>https://stephane.gamondes.fr/romans/fantasy/</link>
+      <pubDate>Mon, 12 Jan 2026 12:52:36 +0600</pubDate>
+      <guid>https://stephane.gamondes.fr/romans/fantasy/</guid>
+      <description>&lt;p&gt;Il y a de (très) nombreuses années, un guerrier a assemblé une troupe pour débarrasser la région d&amp;rsquo;un mal.&lt;/p&gt;&#xA;&lt;p&gt;Il doit maintenant reprendre la route pour, semble-t-il, le combattre à nouveau.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
