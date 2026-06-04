@@ -7,9 +7,11 @@ author: Stéphane Gamondes
 description : "Kashmir : Planète oubliée"
 ---
 
-Mon premier roman.
+<div style="text-align: center"><a href="https://www.amazon.fr/Kashmir-Plan%C3%A8te-oubli%C3%A9e-St%C3%A9phane-Gamondes-ebook/dp/B0CHQW4XNC/" target="_blank" title="Kashmir - Planète oubliée sur Amazon"><img src="/images/romans/kdp-kashmir.png" alt="Acheter Kashmir : Planète oubliée sur Amazon"></a></div>
+<p>&nbsp;</p>
+<p>Mon premier roman.</p>
 
-Inspiré par les images qui se forment dans mon esprit lorsque j'écoute l'excellent morceau <a href="https://www.youtube.com/watch?v=ww9484EM2OQ" title="Kashmir de Led Zeppelin" target="_blank">Kashmir de Led Zeppelin</a>.
+Inspiré par les images qui se forment dans mon esprit lorsque j'écoute l'excellent morceau <b><a href="https://www.youtube.com/watch?v=ww9484EM2OQ" title="Kashmir de Led Zeppelin" target="_blank">Kashmir de Led Zeppelin</a></b>.
 
 Je vois une planète mystérieuse, le désert, un vaisseau qui s'élève lentement. Puis tout s'emballe. L'action, la peur, la révélation.
 C'est à Dune que je pense tout de suite même si le récit ressemble plus à Stargate.
@@ -113,3 +115,5 @@ Seule une planète proche pourrait leur offrir un refuge où réparer leur avari
     <source src="/videos/Kashmir - Planète oubliée.mp4" type="video/mp4"  type="video/mp4">
   </video>
 </div>
+<p>&nbsp;</p>
+<div style="text-align: center"><a href="https://www.amazon.fr/Kashmir-Plan%C3%A8te-oubli%C3%A9e-St%C3%A9phane-Gamondes-ebook/dp/B0CHQW4XNC/" target="_blank" title="Kashmir - Planète oubliée sur Amazon"><img src="/images/romans/kdp-kashmir.png" alt="Acheter Kashmir : Planète oubliée sur Amazon"></a></div>
