@@ -42,7 +42,13 @@ influences:
       categories : ["bd"]
       content : Les X-Men, des super héros bourrés de failles. Comment gérer sa puissance ? Que faire de ses pouvoirs ? Trouver sa place.
       link : "#"
-      
+    # influences item loop
+    - name : Elite
+      image : images/portfolio/elite.jpg
+      image_webp : images/portfolio/elite.jpg
+      categories : ["jeux"]
+      content : L'exploration spatiale et le commerce en liberté. Et surtout la musique de 2001 lorsqu'on branche le docking computer !
+      link : "#"  
     # influences item loop
     - name : Stephen King
       image : images/portfolio/ca.jpg
@@ -58,7 +64,13 @@ influences:
       categories : ["films"]
       content : A l'ère de l'IA, la question du danger de la technologie si l'humain en perd la maitrise.
       link : "#"
-      
+    # influences item loop
+    - name : The Hobbit
+      image : images/portfolio/hobbit.jpg
+      image_webp : images/portfolio/hobbit.jpg
+      categories : ["jeux"]
+      content : Le livre (en Anglais) était offert avec le jeu. Une aventure textuelle, avec quelques graphismes. Ma première rencontre avec Tolkien.
+      link : "#" 
     # influences item loop
     - name : Tintin
       image : images/portfolio/tintin.jpg
@@ -66,7 +78,13 @@ influences:
       categories : ["bd"]
       content : Mon père me les lisait avant que je ne sache lire. C'est l'aventure, la découverte et les personnages hauts en couleurs.
       link : "#"
-      
+    # influences item loop
+    - name : Ultima III - Exodus
+      image : images/portfolio/ultima.jpg
+      image_webp : images/portfolio/ultima.jpg
+      categories : ["jeux"]
+      content : L'un des premiers RPG avec des classes, des races, des PNJ, un groupe d'aventuriers et une histoire. Il n'a pas influencé que moi !
+      link : "#"
     # influences item loop
     - name : David Eddings
       image : images/portfolio/eddings.jpg
@@ -74,3 +92,10 @@ influences:
       categories : ["romans"]
       content : De la fantasy assez classique, mais des personnages attachants. Je m'étais senti perdu de les avoir quittés après avoir lu la dernière page.
       link : "#"
+    # influences item loop
+    - name : Mass Effect
+      image : images/portfolio/masseffect.jpg
+      image_webp : images/portfolio/masseffect.jpg
+      categories : ["jeux"]
+      content : Plus récent, mais une influence quand même. Un space opéra magnifique avec de nombreux personnages et une intrigue à tiroirs.
+      link : "#"       
