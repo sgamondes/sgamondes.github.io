@@ -18,3 +18,11 @@ Quelles en sont les conséquences ?
 Objectif de sortie : septembre 2026
 
 Indice : Si la bande son de "Kashmir : Planète oubliée" était, évidemment, "Kashmir" de Led Zeppelin, la chanson dont est tiré l'épigraphe de "Retour sur Kashmir" est "Welcome to the jungle" de Guns N' Roses.
+<p>&nbsp;</p>
+<hr/>
+<p>&nbsp;</p>
+<div id="player-overlay">
+  <video controls loading="lazy" poster="/images/Retour_sur_Kashmir_video_poster.png">
+    <source src="/videos/Retour sur Kashmir.mp4" type="video/mp4"  type="video/mp4">
+  </video>
+</div>
